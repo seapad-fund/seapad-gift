@@ -1,0 +1,12 @@
+[package]
+name = "seapad"
+version = "0.0.1"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "testnet" }
+
+[addresses]
+seapad =  "0x0"
+seapad_avatar_nft_owner = "0xa62925633e4366eb1e78e72c4edbe4491f218cc0"
+seapad_special_avatar_nft_owner = "0xa62925633e4366eb1e78e72c4edbe4491f218cc0"
+sui =  "0x0000000000000000000000000000000000000002"

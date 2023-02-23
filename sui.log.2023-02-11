@@ -1,0 +1,50 @@
+2023-02-11T10:11:10.785991Z  INFO sui::client_commands: Active environment switched to [testnet]
+2023-02-11T10:11:30.276586Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.25.0, server api version : 0.22.0
+2023-02-11T10:11:40.140028Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2023-02-11T10:11:40.140047Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-11T10:11:40.140052Z  INFO sui::client_commands:  0x22948dee8943f9d0b695b13c71e2605e7e6ced75 |    6400    | XODBiZsC2vWEv2x+AbOQTF0FMSFNZ1dIVL9B9XGwXMY= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140057Z  INFO sui::client_commands:  0x393019d363a0f3c24d714b88a062260838af854c |    5998    | dAZYgGidl39dtDlFIRGpzJU6uRvALeroHzewdh1U9c4= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140062Z  INFO sui::client_commands:  0x6c201a6777984ae34df4aced22a826f73a731c46 |    5998    | afEBoL6X7y7gu9T1JqtoPH56W1nrOAmkrxxN2xVnuZI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140067Z  INFO sui::client_commands:  0x9e181e32c40c610f0038931658eade4832f3e55e |    6400    | lcZqri/H1+iUZ0t1/9zuezUdS0VJu4UKBhrOSxSgOjI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140141Z  INFO sui::client_commands:  0xb6ed55d78027754b41bbeccad5ddb6707bbfa015 |    6400    | UJaKVPtnJk1NHr7+n/lgs4F4glD/OqLfWyxi6vWYbwg= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140148Z  INFO sui::client_commands:  0xc0e42ec1b0934d61fd07cde121e70b409f2c8f75 |    5998    | SbpB8FddXBkfprOrG2FSuvCoPPOBUpRbQQKuIHGC3ak= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140153Z  INFO sui::client_commands:  0xd562512074005214add2bfb1d8ecf1f70c9ec533 |    5998    | 2fpQFwjpn8cixOLfzHZGKtRSAAzaxnbah3tITFnD6go= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140158Z  INFO sui::client_commands:  0xe99844458186c8f7b7c7a4bec5013b5f2ce56f3f |    6400    | nnUu77Phj2NECwqw4ZcuwazfGlZkpZydGUKpki5ULWo= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140162Z  INFO sui::client_commands:  0xf0160caab7cde98165198d3ab02db1f41f05ab82 |    5998    | mTrYTRDigu/ZHEEmYI3L5K2b0XBkPh4VkVDWDPWeB8E= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140167Z  INFO sui::client_commands:  0xfc661fee6fa917d18164d0c14b51ed99e42a45ad |    6400    | deRFI2jxp0KzvkgBWQ+rkd3TgS08uc8qAJL/aIHDT3k= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T10:11:40.140171Z  INFO sui::client_commands: Showing 10 results.
+2023-02-11T10:41:56.612619Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.25.0, server api version : 0.22.0
+2023-02-11T11:29:00.564569Z  INFO sui::client_commands: Active environment switched to [devnet]
+2023-02-11T11:34:55.730681Z  INFO sui::client_commands: Active environment switched to [devnet]
+2023-02-11T14:31:28.207692Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2023-02-11T14:31:28.207770Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-11T14:31:28.207779Z  INFO sui::client_commands:  0x0a336b09be63027e872791db716f323f4ba3de6e |    1170    | qDXgAeTHRS8pPwKAWGTNI3RxqPwc+6RQaB0IyPUKjKo= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.207786Z  INFO sui::client_commands:  0x0fc283c58b2644698b73e41ac837a823a2bb3c52 |    1170    | 4qrrsznudDB4Y3bj/tZo0qVt8vB0ijeyh9220tdeXiE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.207794Z  INFO sui::client_commands:  0x16fd838906112aa20c37e7277b32bccc1aebc92a |    1170    | Q7RLvQURh7ofVxBD89Pqn9R9Q9v2fKDVc9P1sOnChbA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.207800Z  INFO sui::client_commands:  0x19199dcb897eacdd7081a6aef601e5058e8ce951 |    1170    | SMX2LEGtzpS+cNq2gBHBQ1IWFWRl9T/FHDzVbD96JtY= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.207807Z  INFO sui::client_commands:  0x24aa845575a59834c5cee8e43ce8c01c6bb2077a |    1170    | dP0f0HUdfxALN04u5QmV4yeOGoIAm2Ig6V0V9mlf14w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208062Z  INFO sui::client_commands:  0x3645683f5281ea6f53e9fba0cc93213b319dae4d |    1170    | DqeEZXorZRGpvIlyIpJs7MDPmHGt/5W8F9aNLv0rkqk= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208084Z  INFO sui::client_commands:  0x37becdc945f837bf85a90b97eb00ecbd854e24bc |    1170    | 7huvFHtrwfqPnCQBvoO8GXXhSTAKaiDZoz0ZG8TJyZY= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208092Z  INFO sui::client_commands:  0x7d78c49560cbb301a4df8a07d92ed8176d17a098 |    1170    | uDbbAeS7//pX70gLnKpfGO6tyxN2QX0umKjYbQYTI6c= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208099Z  INFO sui::client_commands:  0x8d16fc9d0855734a8c085193583ac8735e4bc3e1 |    1170    | vKd33UI1vj+Dersj9EW6qdPR9aKv/XAWxI4F36fyfgQ= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208105Z  INFO sui::client_commands:  0xece56021d51d8aca5b7c5f9382eabe1fdbbe9964 |    1170    | 8oBOfPhe0l3x8NkJES5djcFBO5RWlHlYaisQKYQyaII= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:31:28.208111Z  INFO sui::client_commands: Showing 10 results.
+2023-02-11T14:32:02.326325Z  INFO sui::client_commands: Active environment switched to [testnet]
+2023-02-11T14:32:22.379008Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.25.0, server api version : 0.22.0
+2023-02-11T14:32:25.040965Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2023-02-11T14:32:25.040993Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-02-11T14:32:25.041002Z  INFO sui::client_commands:  0x22948dee8943f9d0b695b13c71e2605e7e6ced75 |    6400    | XODBiZsC2vWEv2x+AbOQTF0FMSFNZ1dIVL9B9XGwXMY= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041010Z  INFO sui::client_commands:  0x393019d363a0f3c24d714b88a062260838af854c |    5998    | dAZYgGidl39dtDlFIRGpzJU6uRvALeroHzewdh1U9c4= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041018Z  INFO sui::client_commands:  0x6c201a6777984ae34df4aced22a826f73a731c46 |    5998    | afEBoL6X7y7gu9T1JqtoPH56W1nrOAmkrxxN2xVnuZI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041024Z  INFO sui::client_commands:  0x9e181e32c40c610f0038931658eade4832f3e55e |    6400    | lcZqri/H1+iUZ0t1/9zuezUdS0VJu4UKBhrOSxSgOjI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041126Z  INFO sui::client_commands:  0xb6ed55d78027754b41bbeccad5ddb6707bbfa015 |    6400    | UJaKVPtnJk1NHr7+n/lgs4F4glD/OqLfWyxi6vWYbwg= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041149Z  INFO sui::client_commands:  0xc0e42ec1b0934d61fd07cde121e70b409f2c8f75 |    5998    | SbpB8FddXBkfprOrG2FSuvCoPPOBUpRbQQKuIHGC3ak= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041157Z  INFO sui::client_commands:  0xd562512074005214add2bfb1d8ecf1f70c9ec533 |    5998    | 2fpQFwjpn8cixOLfzHZGKtRSAAzaxnbah3tITFnD6go= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041165Z  INFO sui::client_commands:  0xe99844458186c8f7b7c7a4bec5013b5f2ce56f3f |    6400    | nnUu77Phj2NECwqw4ZcuwazfGlZkpZydGUKpki5ULWo= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041172Z  INFO sui::client_commands:  0xf0160caab7cde98165198d3ab02db1f41f05ab82 |    5998    | mTrYTRDigu/ZHEEmYI3L5K2b0XBkPh4VkVDWDPWeB8E= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041179Z  INFO sui::client_commands:  0xfc661fee6fa917d18164d0c14b51ed99e42a45ad |    6400    | deRFI2jxp0KzvkgBWQ+rkd3TgS08uc8qAJL/aIHDT3k= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-02-11T14:32:25.041185Z  INFO sui::client_commands: Showing 10 results.
+2023-02-11T14:33:08.925597Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.25.0, server api version : 0.22.0
+2023-02-11T14:37:36.286409Z  INFO sui::client_commands: Showing 2 results.
+2023-02-11T14:37:36.286456Z  INFO sui::client_commands: 0x013d99f63353bcb717a245fc5151705e8cc39ddd
+2023-02-11T14:37:36.286460Z  INFO sui::client_commands: 0xa62925633e4366eb1e78e72c4edbe4491f218cc0
